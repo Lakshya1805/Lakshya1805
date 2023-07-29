@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lakshyabaveja" target="blank">Linkedin</a>
-<a href="https://kaggle.com/lakshyabaveja" target="blank">Kaggle</a>
-<a href="https://www.leetcode.com/lakshya1805" target="blank">Leetcode</a>
+<a href="https://linkedin.com/in/lakshyabaveja" target="blank">Linkedin</a>     
+<a href="https://kaggle.com/lakshyabaveja" target="blank">Kaggle</a>    
+<a href="https://www.leetcode.com/lakshya1805" target="blank">Leetcode</a>    
 </p>
 
 
